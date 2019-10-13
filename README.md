@@ -8,11 +8,8 @@ Fork this repository
 
 Click on Fork Button.
 
-After that open the file which you want to do changes.
 
-[Second Details](https://github.com/HacktoberFest-CU/Second-PR/blob/master/Second%20Details) is our first file.
-
-Click on the edit button and add your details in the mentioned format.
+Create a new file with your NAME and add your details.
 
 Last Click on Commit Changes.
 
